@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: ca48cb151a53df741811fef80bdcb988
+timeCreated: 1491561020
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: num3_0
+    21300002: num3_1
+    21300004: num3_2
+    21300006: num3_3
+    21300008: num3_4
+    21300010: num3_5
+    21300012: num3_6
+    21300014: num3_7
+    21300016: num3_8
+    21300018: num3_9
+    21300020: num3_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: num3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 137
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 386
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 382
+        width: 76
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 343
+        width: 137
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 211
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.94542307, y: 0.04284107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 224
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 251
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0.060001314, y: 0.09452002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 123
+        width: 71
+        height: 52
+      alignment: 9
+      pivot: {x: 0.053400442, y: 0.1173932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 146
+        width: 71
+        height: 52
+      alignment: 9
+      pivot: {x: 0.93784213, y: 0.9184767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0.939998, y: 0.90857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num3_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 53
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.04529674, y: 0.9480162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

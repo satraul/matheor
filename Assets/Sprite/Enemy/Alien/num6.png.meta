@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: fbc7764d57abe9f45bfcc0ae70c4bbe6
+timeCreated: 1491561092
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: num6_0
+    21300002: num6_1
+    21300004: num6_2
+    21300006: num6_3
+    21300008: num6_4
+    21300010: num6_5
+    21300012: num6_6
+    21300014: num6_7
+    21300016: num6_8
+    21300018: num6_9
+    21300020: num6_10
+    21300022: num6_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: num6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 180
+        height: 201
+      alignment: 9
+      pivot: {x: 0.9735884, y: 0.06646622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 500
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 469
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 420
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 399
+        width: 118
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 266
+        width: 150
+        height: 167
+      alignment: 9
+      pivot: {x: 0.05798401, y: 0.3752222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 152
+        width: 149
+        height: 98
+      alignment: 9
+      pivot: {x: 0.96193415, y: 0.9381493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 13
+        width: 242
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 129
+        width: 117
+        height: 107
+      alignment: 9
+      pivot: {x: 0.04665068, y: 0.26984513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 79
+        height: 104
+      alignment: 9
+      pivot: {x: 0.56394446, y: 0.94322973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_10
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 27
+        width: 73
+        height: 62
+      alignment: 9
+      pivot: {x: 0.041549057, y: 0.92775625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: num6_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 27
+        width: 46
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6509983, y: 0.93880504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
